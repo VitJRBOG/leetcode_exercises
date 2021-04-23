@@ -1,3 +1,3 @@
-module github.com/VitJRBOG/test_leetcode_exercises/e9
+module github.com/VitJRBOG/leetcode_exercises/e9
 
 go 1.16
