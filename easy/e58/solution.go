@@ -1,15 +1,15 @@
 package e58
 
-import "strings"
-
 func lengthOfLastWord(s string) int {
-	words := strings.Split(s, " ")
-
-	for i := len(words) - 1; i >= 0; i-- {
-		if words[i] != "" {
-			return len([]rune(words[i]))
+	var wordLength int
+	for i := len(s) - 1; i >= 0; i-- {
+		if s[i] != ' ' {
+			wordLength++
+		} else {
+			if wordLength > 0 {
+				break
+			}
 		}
 	}
-
-	return 0
+	return wordLength
 }
