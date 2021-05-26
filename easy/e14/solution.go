@@ -1,49 +1,36 @@
 package e14
 
 func longestCommonPrefix(strs []string) string {
-	var prefix []rune
+	if len(strs) == 1 {
+		return strs[0]
+	}
 
+	prefix, char := "", ""
 	i, n := 0, 0
+
 	for {
 		if i >= len(strs) {
 			i = 0
+			prefix += char
 			n++
 		}
 
-		runes := []rune(strs[i])
-
-		if len(runes) == 0 {
-			return ""
-		}
-
-		if n >= len(runes) {
-			if i > 0 {
-				prefix = prefix[:n]
-			}
+		if n >= len(strs[i]) {
 			break
 		}
 
 		if i == 0 {
-			prefix = append(prefix, runes[n])
+			char = string(strs[i][n])
 			i++
 			continue
 		}
 
-		if prefix[n] == runes[n] {
-			i++
-			continue
+		if char != string(strs[i][n]) {
+			break
 		}
 
-		if n == 0 && prefix[n] != runes[n] {
-			return ""
-		}
-
-		if n > 0 && prefix[n] != runes[n] {
-			prefix = prefix[:n]
-		}
-
-		break
+		i++
 	}
 
-	return string(prefix)
+	return prefix
 }
