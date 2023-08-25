@@ -7,6 +7,10 @@ func TestIsPalindrome(t *testing.T) {
 
 	expectations := []bool{false, true, true, false, true, false, true, true, true}
 
+	if len(input) != len(expectations) {
+		t.Fatal("test is invalid")
+	}
+
 	for i := 0; i < len(input); i++ {
 		result := isPalindrome(input[i])
 		if result != expectations[i] {
