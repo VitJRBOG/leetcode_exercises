@@ -1,4 +1,4 @@
-package e13
+package golang
 
 import "testing"
 
@@ -6,6 +6,10 @@ func TestRomanToInt(t *testing.T) {
 	input := []string{"III", "IV", "IX", "LVIII", "MCMXCIV"}
 
 	expectations := []int{3, 4, 9, 58, 1994}
+
+	if len(input) != len(expectations) {
+		t.Fatal("test is invalid")
+	}
 
 	for i := 0; i < len(input); i++ {
 		result := romanToInt(input[i])
