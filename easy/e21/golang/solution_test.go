@@ -1,12 +1,16 @@
-package e21
+package golang
 
 import "testing"
 
 func TestMergeTwoLists(t *testing.T) {
-	input1 := [][]int{{1, 2, 4}, {}, {}, {0, 1, 4, 6, 7, 8, 9}}
-	input2 := [][]int{{1, 3, 4}, {}, {0}, {0, 1, 1, 1, 3, 5, 6, 7, 7, 8, 9, 9}}
+	input1 := [][]int{{1, 2, 4}, {}, {}, {0}, {0, 1, 4, 6, 7, 8, 9}}
+	input2 := [][]int{{1, 3, 4}, {}, {0}, {}, {0, 1, 1, 1, 3, 5, 6, 7, 7, 8, 9, 9}}
 
-	expectations := [][]int{{1, 1, 2, 3, 4, 4}, {}, {0}, {0, 0, 1, 1, 1, 1, 3, 4, 5, 6, 6, 7, 7, 7, 8, 8, 9, 9, 9}}
+	expectations := [][]int{{1, 1, 2, 3, 4, 4}, {}, {0}, {0}, {0, 0, 1, 1, 1, 1, 3, 4, 5, 6, 6, 7, 7, 7, 8, 8, 9, 9, 9}}
+
+	if len(expectations) != len(input1) || len(input1) != len(input2) || len(input2) != len(expectations) {
+		t.Fatal("test is invalid")
+	}
 
 	for i := 0; i < len(input1); i++ {
 
