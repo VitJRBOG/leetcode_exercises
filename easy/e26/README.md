@@ -1,46 +1,49 @@
-# 26. Remove Duplicates from Sorted Array
+# [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
-Given a sorted array _nums_, remove the duplicates [in-place](https://en.wikipedia.org/wiki/In-place_algorithm) such that each element appears only _once_ and returns the new length.
+Given an integer array _nums_ sorted in **non-decreasing order**, remove the duplicates [in-place](https://en.wikipedia.org/wiki/In-place_algorithm) such that each unique element appears only **once**. The **relative order** of the elements should be kept the **same**. Then return _the number of unique elements in_ `nums`.
 
-Do not allocate extra space for another array, you must do this by **modifying the input array** [in-place](https://en.wikipedia.org/wiki/In-place_algorithm) with O(1) extra memory.
+Consider the number of unique elements of `nums` to be `k`, to get accepted, you need to do the following things:
 
-**Clarification:**
+* Change the array `nums` such that the first `k` elements of `nums` contain the unique elements in the order they were present in `nums` initially. The remaining elements of `nums` are not important as well as the size of `nums`.
+* Return `k`.
 
-Confused why the returned value is an integer but your answer is an array?
+**Custom Judge:**
 
-Note that the input array is passed in by reference, which means a modification to the input array will be known to the caller as well.
-
-Internally you can think of this:
+The judge will test your solution with the following code:
 
 ```
-// nums is passed in by reference. (i.e., without making a copy)
-int len = removeDuplicates(nums);
+int[] nums = [...]; // Input array
+int[] expectedNums = [...]; // The expected answer with correct length
 
-// any modification to nums in your function would be known by the caller.
-// using the length returned by your function, it prints the first len elements.
-for (int i = 0; i < len; i++) {
-    print(nums[i]);
+int k = removeDuplicates(nums); // Calls your implementation
+
+assert k == expectedNums.length;
+for (int i = 0; i < k; i++) {
+    assert nums[i] == expectedNums[i];
 }
 ```
+
+If all assertions pass, then your solution will be **accepted**.
 
 **Example 1:**
 
 ```
 Input: nums = [1,1,2]
-Output: 2, nums = [1,2]
-Explanation: Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively. It doesn't matter what you leave beyond the returned length.
+Output: 2, nums = [1,2,_]
+Explanation: Your function should return k = 2, with the first two elements of nums being 1 and 2 respectively. It does not matter what you leave beyond the returned k (hence they are underscores).
 ```
 
 **Example 2:**
 
 ```
 Input: nums = [0,0,1,1,1,2,2,3,3,4]
-Output: 5, nums = [0,1,2,3,4]
-Explanation: Your function should return length = 5, with the first five elements of nums being modified to 0, 1, 2, 3, and 4 respectively. It doesn't matter what values are set beyond the returned length.
+Output: 5, nums = [0,1,2,3,4,_,_,_,_,_]
+Explanation: Your function should return k = 5, with the first five elements of nums being 0, 1, 2, 3, and 4 respectively.
+It does not matter what you leave beyond the returned k (hence they are underscores).
 ```
 
 **Constraints:**
 
-* `0 <= nums.length <= 3 * 104`
-* `-104 <= nums[i] <= 104`
-* `nums` is sorted in ascending order.
+* `1 <= nums.length <= 3 * 104`
+* `-100 <= nums[i] <= 100`
+* `nums` is sorted in **non-decreasing** order..
