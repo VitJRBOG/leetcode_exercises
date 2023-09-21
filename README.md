@@ -9,7 +9,7 @@
 |[21. Merge Two Sorted Lists](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e21)|||||
 |[26. Remove Duplicates from Sorted Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e26)|||||
 |[27. Remove Element](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e27)|||||
-|[28. Implement strStr()](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e28)|||||
+|[28. Find the Index of the First Occurrence in a String](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e28)|||||
 |[35. Search Insert Position](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e35)|||||
 |[53. Maximum Subarray](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e53)|||||
 |[58. Length of Last Word](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e58)|||||
