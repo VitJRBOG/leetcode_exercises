@@ -1,4 +1,4 @@
-package e35
+package golang
 
 import "testing"
 
@@ -7,6 +7,10 @@ func TestSearchInsert(t *testing.T) {
 	input2 := []int{5, 2, 7, 0, 0}
 
 	expectations := []int{2, 1, 4, 0, 0}
+
+	if len(input1) != len(input2) || len(input2) != len(expectations) || len(expectations) != len(input1) {
+		t.Fatal("test is invalid")
+	}
 
 	if len(input1) == len(expectations) && len(input2) == len(expectations) {
 		for i := 0; i < len(input1); i++ {
