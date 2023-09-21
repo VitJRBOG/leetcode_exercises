@@ -1,12 +1,16 @@
-package e28
+package golang
 
 import "testing"
 
 func TestStrStr(t *testing.T) {
-	input1 := []string{"hello", "aaaaa", ""}
-	input2 := []string{"ll", "bba", ""}
+	input1 := []string{"a", "aaa", "sadbutsad", "leetcode", "hello", "aaaaa", "mississippi"}
+	input2 := []string{"a", "aaaa", "sad", "leeto", "ll", "bba", "issip"}
 
-	expectations := []int{2, -1, 0}
+	expectations := []int{0, -1, 0, -1, 2, -1, 4}
+
+	if len(input1) != len(input2) || len(input2) != len(expectations) || len(expectations) != len(input1) {
+		t.Fatal("test is invalid")
+	}
 
 	if len(input1) == len(input2) && len(input1) == len(expectations) && len(input2) == len(expectations) {
 		for i := 0; i < len(input1); i++ {
