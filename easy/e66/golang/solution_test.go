@@ -1,10 +1,14 @@
-package e66
+package golang
 
 import "testing"
 
 func TestPlusOne(t *testing.T) {
 	input := [][]int{{1, 2, 3}, {4, 3, 2, 1}, {0}, {9}}
 	expectations := [][]int{{1, 2, 4}, {4, 3, 2, 2}, {1}, {1, 0}}
+
+	if len(input) != len(expectations) {
+		t.Fatal("test is invalid")
+	}
 
 	if len(input) == len(expectations) {
 		for i := 0; i < len(input); i++ {
