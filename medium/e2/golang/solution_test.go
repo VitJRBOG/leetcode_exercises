@@ -1,14 +1,18 @@
-package e2
+package golang
 
 import (
 	"testing"
 )
 
 func TestAddTwoNumbers(t *testing.T) {
-	input1 := [][]int{{9, 9, 9, 9, 9, 9, 9}, {2, 4, 3}, {0}}
-	input2 := [][]int{{9, 9, 9, 9}, {5, 6, 4}, {0}}
+	input1 := [][]int{{2, 4, 3}, {0}, {9, 9, 9, 9, 9, 9, 9}, {5, 6}, {3, 2, 5, 9, 0, 5, 0, 1, 5, 1}}
+	input2 := [][]int{{5, 6, 4}, {0}, {9, 9, 9, 9}, {5, 4, 9}, {7, 7, 8, 5, 5, 3, 4, 9, 8}}
 
-	expectations := [][]int{{8, 9, 9, 9, 0, 0, 0, 1}, {7, 0, 8}, {0}}
+	expectations := [][]int{{7, 0, 8}, {0}, {8, 9, 9, 9, 0, 0, 0, 1}, {0, 1, 0, 1}, {0, 0, 4, 5, 6, 8, 4, 0, 4, 2}}
+
+	if len(input1) != len(input2) || len(input2) != len(expectations) || len(expectations) != len(input1) {
+		t.Fatal("test if invalid")
+	}
 
 	for i := 0; i < len(input1); i++ {
 
