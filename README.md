@@ -15,5 +15,5 @@
 |[53. Maximum Subarray](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e53)|M|+|-|
 |[58. Length of Last Word](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e58)|E|+|-|
 |[66. Plus One](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e66)|E|+|-|
-|[70. Climbing Stairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e70)|E|+|-|
+|[70. Climbing Stairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e70)|E|+|+|
 |[88. Merge Sorted Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e88)|E|+|-|
