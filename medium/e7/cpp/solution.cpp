@@ -29,15 +29,15 @@ class Solution {
 int main() {
     Solution s;
 
-    int input[6] = {123, -123, 120, 1534236469, -2147483648, -2147483412};
-    int expectations[6] = {321, -321, 21, 0, 0, -2143847412};
+    int input[7] = {123, -123, 120, 1534236469, -2147483648, -2147483412, -1563847412};
+    int expectations[7] = {321, -321, 21, 0, 0, -2143847412, 0};
 
-    for (int i = 0; i < 6; i++) {
+    for (int i = 0; i < 7; i++) {
         auto result = s.reverse(input[i]);
 
         if (result != expectations[i]) {
-            std::cerr << "FAIL: bad result for " << input[i] << ": got "
-                      << result << " expected " << expectations[i] << "\n";
+            std::cerr << "FAIL: bad result for " << input[i] << ": got " << result << " expected "
+                      << expectations[i] << "\n";
             return 0;
         }
     }
