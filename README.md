@@ -17,4 +17,5 @@
 |[66. Plus One](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e66)|E|+|-|
 |[70. Climbing Stairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e70)|E|+|+|
 |[88. Merge Sorted Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e88)|E|+|-|
+|[136. Single Number](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e136)|E|-|+|
 |[1512. Number of Good Pairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1512)|E|-|+|
