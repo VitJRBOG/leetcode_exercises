@@ -17,6 +17,7 @@
 |[66. Plus One](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e66)|E|+|-|
 |[70. Climbing Stairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e70)|E|+|+|
 |[88. Merge Sorted Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e88)|E|+|-|
+|[119. Pascal's Triangle II](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e119)|E|-|+|
 |[136. Single Number](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e136)|E|-|+|
 |[169. Majority Element](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e169)|E|-|+|
 |[268. Missing Number](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e268)|E|-|+|
