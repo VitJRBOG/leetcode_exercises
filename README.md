@@ -3,7 +3,7 @@
 |[1. Two Sum](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1)|E|-|+|+|
 |[2. Add Two Numbers](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e2)|M|-|+|-|
 |[7. Reverse Integer](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e7)|M|+|+|-|
-|[9. Palindrome Number](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e9)|E|+|+|-|
+|[9. Palindrome Number](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e9)|E|+|+|+|
 |[13. Roman to Integer](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e13)|E|-|+|-|
 |[14. Longest Common Prefix](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e14)|E|-|+|-|
 |[20. Valid Parentheses](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e20)|E|+|+|-|
