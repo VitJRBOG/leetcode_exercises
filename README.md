@@ -11,6 +11,7 @@
 |[26. Remove Duplicates from Sorted Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e26)|E|-|+|-|
 |[27. Remove Element](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e27)|E|-|+|-|
 |[28. Find the Index of the First Occurrence in a String](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e28)|E|-|+|-|
+|[29. Divide Two Integers](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e29)|M|-|-|+|
 |[35. Search Insert Position](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e35)|E|-|+|-|
 |[53. Maximum Subarray](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e53)|M|-|+|-|
 |[58. Length of Last Word](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e58)|E|-|+|-|
