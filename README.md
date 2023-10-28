@@ -24,5 +24,6 @@
 |[169. Majority Element](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e169)|E|+|-|-|
 |[217. Contains Duplicate](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e217)|E|-|-|+|
 |[268. Missing Number](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e268)|E|+|-|-|
+|[389. Find the Difference](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e389)|E|-|-|+|
 |[405. Convert a Number to Hexadecimal](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e405)|E|-|-|+|
 |[1512. Number of Good Pairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1512)|E|+|-|-|
