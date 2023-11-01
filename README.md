@@ -29,3 +29,4 @@
 |[405. Convert a Number to Hexadecimal](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e405)|E|-|-|+|
 |[628. Maximum Product of Three Numbers](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e628)|E|-|-|+|
 |[1512. Number of Good Pairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1512)|E|+|-|-|
+|[2089. Find Target Indices After Sorting Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2089)|E|-|-|[+](https://leetcode.com/submissions/detail/1088838767/)|
