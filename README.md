@@ -17,6 +17,7 @@
 |[53. Maximum Subarray](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e53)|M|-|[+](https://leetcode.com/submissions/detail/1060223104/)|-|
 |[58. Length of Last Word](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e58)|E|-|[+](https://leetcode.com/submissions/detail/1055180553/)|-|
 |[66. Plus One](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e66)|E|-|[+](https://leetcode.com/submissions/detail/1055966405/)|-|
+|[67. Add Binary](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e67)|E|-|-|[+](https://leetcode.com/submissions/detail/1089640852/)|
 |[70. Climbing Stairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e70)|E|[+](https://leetcode.com/submissions/detail/1061049321/)|[+](https://leetcode.com/submissions/detail/1056799890/)|-|
 |[88. Merge Sorted Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e88)|E|-|[+](https://leetcode.com/submissions/detail/1057675366/)|-|
 |[119. Pascal's Triangle II](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e119)|E|[+](https://leetcode.com/submissions/detail/1077197666/)|-|-|
