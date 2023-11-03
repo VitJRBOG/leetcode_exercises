@@ -3,9 +3,14 @@ from typing import List
 
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
-        result = [cost[0], cost[1]] + [0] * (len(cost) - 2)
+        x1 = cost[0]
+        x2 = cost[1]
+        x3 = 0
 
         for i in range(2, len(cost), 1):
-            result[i] = cost[i] + min(result[i-1], result[i-2])
+            x3 = cost[i] + min(x1, x2)
 
-        return min(result[-1], result[-2])
+            x1 = x2
+            x2 = x3
+
+        return min(x1, x2)
