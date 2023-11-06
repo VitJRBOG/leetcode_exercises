@@ -26,6 +26,7 @@
 |[217. Contains Duplicate](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e217)|E|-|-|[+](https://leetcode.com/submissions/detail/1084298542/)|
 |[242. Valid Anagram](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e242)|E|-|-|[+](https://leetcode.com/submissions/detail/1085785255/)|
 |[268. Missing Number](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e268)|E|[+](https://leetcode.com/submissions/detail/1074684165/)|-|-|
+|[326. Power of Three](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e326)|E|-|-|[+](https://leetcode.com/submissions/detail/1092516683/)|
 |[389. Find the Difference](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e389)|E|-|-|[+](https://leetcode.com/submissions/detail/1085769907/)|
 |[405. Convert a Number to Hexadecimal](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e405)|E|-|-|[+](https://leetcode.com/submissions/detail/1081106300/)|
 |[628. Maximum Product of Three Numbers](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e628)|E|-|-|[+](https://leetcode.com/submissions/detail/1086587595/)|
