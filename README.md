@@ -30,8 +30,8 @@
 |[389. Find the Difference](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e389)|E|-|-|[+](https://leetcode.com/submissions/detail/1085769907/)|
 |[405. Convert a Number to Hexadecimal](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e405)|E|-|-|[+](https://leetcode.com/submissions/detail/1081106300/)|
 |[628. Maximum Product of Three Numbers](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e628)|E|-|-|[+](https://leetcode.com/submissions/detail/1086587595/)|
-|[746. Min Cost Climbing Stairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e746)|E|-|-|[+](https://leetcode.com/submissions/detail/1090375169/)|
+|[746. Min Cost Climbing Stairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e746)|E|[+](https://leetcode.com/submissions/detail/1094112929/)|-|[+](https://leetcode.com/submissions/detail/1090375169/)|
 |[1356. Sort Integers by The Number of 1 Bits](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1356)|E|-|-|[+](https://leetcode.com/submissions/detail/1091043186/)|
 |[1512. Number of Good Pairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1512)|E|[+](https://leetcode.com/submissions/detail/1065522319/)|-|-|
 |[2089. Find Target Indices After Sorting Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2089)|E|-|-|[+](https://leetcode.com/submissions/detail/1088838767/)|
-|**Total result**|29/5/0|9|17|14|
+|**Total result**|29/5/0|10|17|14|
