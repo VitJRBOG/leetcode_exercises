@@ -12,7 +12,7 @@
 |[27. Remove Element](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e27)|E|-|[+](https://leetcode.com/submissions/detail/1052379229/)|-|
 |[28. Find the Index of the First Occurrence in a String](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e28)|E|-|[+](https://leetcode.com/submissions/detail/1055113157/)|-|
 |[29. Divide Two Integers](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e29)|M|-|-|[+](https://leetcode.com/submissions/detail/1080320622/)|
-|[34. Find First and Last Position of Element in Sorted Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e34)|M|-|-|[+](https://leetcode.com/submissions/detail/1083481989/)|
+|[34. Find First and Last Position of Element in Sorted Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e34)|M|[+](https://leetcode.com/submissions/detail/1094131179/)|-|[+](https://leetcode.com/submissions/detail/1083481989/)|
 |[35. Search Insert Position](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e35)|E|-|[+](https://leetcode.com/submissions/detail/1055138774/)|-|
 |[53. Maximum Subarray](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e53)|M|-|[+](https://leetcode.com/submissions/detail/1060223104/)|-|
 |[58. Length of Last Word](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e58)|E|-|[+](https://leetcode.com/submissions/detail/1055180553/)|-|
@@ -34,4 +34,4 @@
 |[1356. Sort Integers by The Number of 1 Bits](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1356)|E|-|-|[+](https://leetcode.com/submissions/detail/1091043186/)|
 |[1512. Number of Good Pairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1512)|E|[+](https://leetcode.com/submissions/detail/1065522319/)|-|-|
 |[2089. Find Target Indices After Sorting Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2089)|E|-|-|[+](https://leetcode.com/submissions/detail/1088838767/)|
-|**Total result**|29/5/0|10|17|14|
+|**Total result**|29/5/0|11|17|14|
