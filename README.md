@@ -21,7 +21,7 @@
 |[70. Climbing Stairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e70)|E|[+](https://leetcode.com/submissions/detail/1061049321/)|[+](https://leetcode.com/submissions/detail/1056799890/)|-|
 |[88. Merge Sorted Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e88)|E|-|[+](https://leetcode.com/submissions/detail/1057675366/)|-|
 |[119. Pascal's Triangle II](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e119)|E|[+](https://leetcode.com/submissions/detail/1077197666/)|-|-|
-|[121. Best Time to Buy and Sell Stock](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e121)|E|-|-|[+](https://leetcode.com/submissions/detail/1096308748/)|
+|[121. Best Time to Buy and Sell Stock](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e121)|E|[+](https://leetcode.com/submissions/detail/1096318918/)|-|[+](https://leetcode.com/submissions/detail/1096308748/)|
 |[136. Single Number](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e136)|E|[+](https://leetcode.com/submissions/detail/1067391916/)|-|-|
 |[169. Majority Element](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e169)|E|[+](https://leetcode.com/submissions/detail/1069063380/)|-|-|
 |[217. Contains Duplicate](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e217)|E|-|-|[+](https://leetcode.com/submissions/detail/1084298542/)|
