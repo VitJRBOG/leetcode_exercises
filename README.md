@@ -3,7 +3,7 @@
 |[1. Two Sum](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1)|E|-|[+](https://leetcode.com/submissions/detail/1030226613/)|[+](https://leetcode.com/submissions/detail/1079666349/)|[+](https://leetcode.com/submissions/detail/1111207076/)|
 |[2. Add Two Numbers](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e2)|M|-|[+](https://leetcode.com/submissions/detail/1058452827/)|-|-|
 |[7. Reverse Integer](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e7)|M|[+](https://leetcode.com/submissions/detail/1061930368/)|[+](https://leetcode.com/submissions/detail/1058480699/)|-|-|
-|[9. Palindrome Number](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e9)|E|[+](https://leetcode.com/submissions/detail/1060267568/)|[+](https://leetcode.com/submissions/detail/1031328997/)|[+](https://leetcode.com/submissions/detail/1079684153/)|-|
+|[9. Palindrome Number](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e9)|E|[+](https://leetcode.com/submissions/detail/1060267568/)|[+](https://leetcode.com/submissions/detail/1031328997/)|[+](https://leetcode.com/submissions/detail/1079684153/)|[+](https://leetcode.com/submissions/detail/1111236079/)|
 |[13. Roman to Integer](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e13)|E|-|[+](https://leetcode.com/submissions/detail/1035666008/)|-|-|
 |[14. Longest Common Prefix](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e14)|E|-|[+](https://leetcode.com/submissions/detail/1039958626/)|-|-|
 |[20. Valid Parentheses](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e20)|E|[+](https://leetcode.com/submissions/detail/1068244137/)|[+](https://leetcode.com/submissions/detail/1049874073/)|-|-|
@@ -35,4 +35,4 @@
 |[1356. Sort Integers by The Number of 1 Bits](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1356)|E|-|-|[+](https://leetcode.com/submissions/detail/1091043186/)|-|
 |[1512. Number of Good Pairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1512)|E|[+](https://leetcode.com/submissions/detail/1065522319/)|-|-|-|
 |[2089. Find Target Indices After Sorting Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2089)|E|-|-|[+](https://leetcode.com/submissions/detail/1088838767/)|-|
-|**Total result**|30/5/0|13|17|15|1|
+|**Total result**|30/5/0|13|17|15|2|
