@@ -36,4 +36,4 @@
 |[1356. Sort Integers by The Number of 1 Bits](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1356)|E|-|-|[+](https://leetcode.com/submissions/detail/1091043186/)|-|
 |[1512. Number of Good Pairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1512)|E|[+](https://leetcode.com/submissions/detail/1065522319/)|-|-|-|
 |[2089. Find Target Indices After Sorting Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2089)|E|-|-|[+](https://leetcode.com/submissions/detail/1088838767/)|-|
-|**Total result**|30/5/0|13|17|15|3|
+|**Total result**|31/5/0|13|17|15|4|
