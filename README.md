@@ -20,6 +20,7 @@
 |[66. Plus One](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e66)|E|-|[+](https://leetcode.com/submissions/detail/1055966405/)|-|-|
 |[67. Add Binary](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e67)|E|-|-|[+](https://leetcode.com/submissions/detail/1089640852/)|-|
 |[70. Climbing Stairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e70)|E|[+](https://leetcode.com/submissions/detail/1061049321/)|[+](https://leetcode.com/submissions/detail/1056799890/)|-|[+](https://leetcode.com/submissions/detail/1111251186/)|
+|[75. Sort Colors](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e75)|M|-|-|-|[+](https://leetcode.com/submissions/detail/1114806392/)|
 |[88. Merge Sorted Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e88)|E|-|[+](https://leetcode.com/submissions/detail/1057675366/)|-|-|
 |[119. Pascal's Triangle II](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e119)|E|[+](https://leetcode.com/submissions/detail/1077197666/)|-|-|-|
 |[121. Best Time to Buy and Sell Stock](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e121)|E|[+](https://leetcode.com/submissions/detail/1096318918/)|-|[+](https://leetcode.com/submissions/detail/1096308748/)|-|
@@ -37,4 +38,4 @@
 |[1356. Sort Integers by The Number of 1 Bits](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1356)|E|-|-|[+](https://leetcode.com/submissions/detail/1091043186/)|-|
 |[1512. Number of Good Pairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1512)|E|[+](https://leetcode.com/submissions/detail/1065522319/)|-|-|-|
 |[2089. Find Target Indices After Sorting Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2089)|E|-|-|[+](https://leetcode.com/submissions/detail/1088838767/)|-|
-|**Total result**|31/6/0|13|17|15|5|
+|**Total result**|31/7/0|13|17|15|6|
