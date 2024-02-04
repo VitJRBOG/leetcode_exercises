@@ -36,8 +36,9 @@
 |[628. Maximum Product of Three Numbers](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e628)|E|-|-|[+](https://leetcode.com/submissions/detail/1086587595/)|-|
 |[746. Min Cost Climbing Stairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e746)|E|[+](https://leetcode.com/submissions/detail/1094112929/)|-|[+](https://leetcode.com/submissions/detail/1090375169/)|-|
 |[1356. Sort Integers by The Number of 1 Bits](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1356)|E|-|-|[+](https://leetcode.com/submissions/detail/1091043186/)|-|
+|[1408. String Matching in an Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1408)|E|[+](https://leetcode.com/submissions/detail/1165492716/)|-|-|-|
 |[1512. Number of Good Pairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1512)|E|[+](https://leetcode.com/submissions/detail/1065522319/)|-|-|-|
 |[2089. Find Target Indices After Sorting Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2089)|E|-|-|[+](https://leetcode.com/submissions/detail/1088838767/)|-|
 |[2418. Sort the People](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2418)|E|-|-|-|[+](https://leetcode.com/submissions/detail/1158847550/)|
 |[2956. Find Common Elements Between Two Arrays](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2956)|E|[+](https://leetcode.com/submissions/detail/1163602599/)|-|-|-|
-|**Total result**|33/7/0|14|17|15|7|
+|**Total result**|34/7/0|15|17|15|7|
