@@ -20,6 +20,7 @@
 |[66. Plus One](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e66)|E|-|[+](https://leetcode.com/submissions/detail/1055966405/)|-|-|
 |[67. Add Binary](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e67)|E|-|-|[+](https://leetcode.com/submissions/detail/1089640852/)|-|
 |[70. Climbing Stairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e70)|E|[+](https://leetcode.com/submissions/detail/1061049321/)|[+](https://leetcode.com/submissions/detail/1056799890/)|-|[+](https://leetcode.com/submissions/detail/1111251186/)|
+|[72. Edit Distance](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e72)|M|[+](https://leetcode.com/submissions/detail/1173756286/)|-|-|-|
 |[75. Sort Colors](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e75)|M|-|-|-|[+](https://leetcode.com/submissions/detail/1114806392/)|
 |[88. Merge Sorted Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e88)|E|-|[+](https://leetcode.com/submissions/detail/1057675366/)|-|-|
 |[119. Pascal's Triangle II](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e119)|E|[+](https://leetcode.com/submissions/detail/1077197666/)|-|-|-|
@@ -43,4 +44,4 @@
 |[2089. Find Target Indices After Sorting Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2089)|E|-|-|[+](https://leetcode.com/submissions/detail/1088838767/)|-|
 |[2418. Sort the People](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2418)|E|-|-|-|[+](https://leetcode.com/submissions/detail/1158847550/)|
 |[2956. Find Common Elements Between Two Arrays](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2956)|E|[+](https://leetcode.com/submissions/detail/1163602599/)|-|-|-|
-|**Total result**|36/7/0|17|17|15|7|
+|**Total result**|36/8/0|18|17|15|7|
