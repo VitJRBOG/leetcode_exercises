@@ -23,6 +23,7 @@
 |[72. Edit Distance](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e72)|M|[+](https://leetcode.com/submissions/detail/1173756286/)|-|-|-|
 |[75. Sort Colors](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e75)|M|-|-|-|[+](https://leetcode.com/submissions/detail/1114806392/)|
 |[88. Merge Sorted Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e88)|E|-|[+](https://leetcode.com/submissions/detail/1057675366/)|-|-|
+|[100. Same Tree](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e100)|E|[+](https://leetcode.com/submissions/detail/1183702934/)|-|-|-|
 |[119. Pascal's Triangle II](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e119)|E|[+](https://leetcode.com/submissions/detail/1077197666/)|-|-|-|
 |[121. Best Time to Buy and Sell Stock](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e121)|E|[+](https://leetcode.com/submissions/detail/1096318918/)|-|[+](https://leetcode.com/submissions/detail/1096308748/)|-|
 |[136. Single Number](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e136)|E|[+](https://leetcode.com/submissions/detail/1067391916/)|-|-|-|
@@ -44,4 +45,4 @@
 |[2089. Find Target Indices After Sorting Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2089)|E|-|-|[+](https://leetcode.com/submissions/detail/1088838767/)|-|
 |[2418. Sort the People](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2418)|E|-|-|-|[+](https://leetcode.com/submissions/detail/1158847550/)|
 |[2956. Find Common Elements Between Two Arrays](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2956)|E|[+](https://leetcode.com/submissions/detail/1163602599/)|-|-|-|
-|**Total result**|36/8/0|18|17|15|7|
+|**Total result**|37/8/0|19|17|15|7|
