@@ -21,6 +21,12 @@ TreeNode* makeATree(TreeNode* pTN, std::vector<int> items, int* pBranchID) {
     pTN->left = makeATree(pTN->left, items, pBranchID);
     pTN->right = makeATree(pTN->right, items, pBranchID);
 
+    if (pTN->val == items[0]) {
+        while (*pBranchID < items.size()) {
+            pTN->left = makeATree(pTN->left, items, pBranchID);
+            pTN->right = makeATree(pTN->right, items, pBranchID);
+        }
+    }
     return pTN;
 }
 
