@@ -31,6 +31,7 @@
 |[217. Contains Duplicate](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e217)|E|-|-|[+](https://leetcode.com/submissions/detail/1084298542/)|-|
 |[242. Valid Anagram](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e242)|E|-|-|[+](https://leetcode.com/submissions/detail/1085785255/)|-|
 |[268. Missing Number](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e268)|E|[+](https://leetcode.com/submissions/detail/1074684165/)|-|-|-|
+|[322. Coin Change](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e322)|M|[+](https://leetcode.com/submissions/detail/1200176614/)|-|-|-|
 |[326. Power of Three](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e326)|E|-|-|[+](https://leetcode.com/submissions/detail/1092519992/)|-|
 |[389. Find the Difference](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e389)|E|-|-|[+](https://leetcode.com/submissions/detail/1085769907/)|-|
 |[405. Convert a Number to Hexadecimal](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e405)|E|-|-|[+](https://leetcode.com/submissions/detail/1081106300/)|-|
@@ -47,4 +48,4 @@
 |[2089. Find Target Indices After Sorting Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2089)|E|-|-|[+](https://leetcode.com/submissions/detail/1088838767/)|-|
 |[2418. Sort the People](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2418)|E|-|-|-|[+](https://leetcode.com/submissions/detail/1158847550/)|
 |[2956. Find Common Elements Between Two Arrays](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2956)|E|[+](https://leetcode.com/submissions/detail/1163602599/)|-|-|-|
-|**Total result**|39/8/0|21|17|15|7|
+|**Total result**|39/9/0|22|17|15|7|
