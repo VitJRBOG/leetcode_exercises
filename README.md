@@ -48,4 +48,5 @@
 |[2089. Find Target Indices After Sorting Array](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2089)|E|-|-|[+](https://leetcode.com/submissions/detail/1088838767/)|-|
 |[2418. Sort the People](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2418)|E|-|-|-|[+](https://leetcode.com/submissions/detail/1158847550/)|
 |[2956. Find Common Elements Between Two Arrays](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2956)|E|[+](https://leetcode.com/submissions/detail/1163602599/)|-|-|-|
-|**Total result**|39/9/0|22|17|15|7|
+|[2974. Minimum Number Game](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2974)|E|[+](https://leetcode.com/submissions/detail/1201146873/)|-|-|-|
+|**Total result**|40/9/0|23|17|15|7|
