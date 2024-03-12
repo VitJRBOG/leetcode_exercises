@@ -35,6 +35,7 @@
 |[326. Power of Three](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e326)|E|-|-|[+](https://leetcode.com/submissions/detail/1092519992/)|-|
 |[389. Find the Difference](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e389)|E|-|-|[+](https://leetcode.com/submissions/detail/1085769907/)|-|
 |[405. Convert a Number to Hexadecimal](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e405)|E|-|-|[+](https://leetcode.com/submissions/detail/1081106300/)|-|
+|[451. Sort Characters By Frequency](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e451)|M|[+](https://leetcode.com/submissions/detail/1201237922/)|-|-|-|
 |[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number)|E|-|-|-|[+](https://leetcode.com/submissions/detail/1111265389/)|
 |[628. Maximum Product of Three Numbers](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e628)|E|-|-|[+](https://leetcode.com/submissions/detail/1086587595/)|-|
 |[674. Longest Continuous Increasing Subsequence](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e674)|E|[+](https://leetcode.com/submissions/detail/1166417496/)|-|-|-|
@@ -49,4 +50,4 @@
 |[2418. Sort the People](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2418)|E|-|-|-|[+](https://leetcode.com/submissions/detail/1158847550/)|
 |[2956. Find Common Elements Between Two Arrays](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2956)|E|[+](https://leetcode.com/submissions/detail/1163602599/)|-|-|-|
 |[2974. Minimum Number Game](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2974)|E|[+](https://leetcode.com/submissions/detail/1201146873/)|-|-|-|
-|**Total result**|40/9/0|23|17|15|7|
+|**Total result**|40/10/0|24|17|15|7|
