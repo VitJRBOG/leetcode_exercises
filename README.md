@@ -41,6 +41,7 @@
 |[674. Longest Continuous Increasing Subsequence](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e674)|E|[+](https://leetcode.com/submissions/detail/1166417496/)|-|-|-|
 |[680. Valid Palindrome II](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e680)|E|[+](https://leetcode.com/submissions/detail/1168401697/)|-|-|-|
 |[746. Min Cost Climbing Stairs](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e746)|E|[+](https://leetcode.com/submissions/detail/1094112929/)|-|[+](https://leetcode.com/submissions/detail/1090375169/)|-|
+|[797. All Paths From Source to Target](https://github.com/VitJRBOG/leetcode_exercises/tree/master/medium/e797)|M|[+](https://leetcode.com/submissions/detail/1209750339/)|-|-|-|
 |[876. Middle of the Linked List](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e876)|E|[+](https://leetcode.com/submissions/detail/1196457901/)|-|-|-|
 |[938. Range Sum of BST](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e938)|E|[+](https://leetcode.com/submissions/detail/1184541019/)|-|-|-|
 |[1356. Sort Integers by The Number of 1 Bits](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e1356)|E|-|-|[+](https://leetcode.com/submissions/detail/1091043186/)|-|
@@ -52,4 +53,4 @@
 |[2418. Sort the People](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2418)|E|-|-|-|[+](https://leetcode.com/submissions/detail/1158847550/)|
 |[2956. Find Common Elements Between Two Arrays](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2956)|E|[+](https://leetcode.com/submissions/detail/1163602599/)|-|-|-|
 |[2974. Minimum Number Game](https://github.com/VitJRBOG/leetcode_exercises/tree/master/easy/e2974)|E|[+](https://leetcode.com/submissions/detail/1201146873/)|-|-|-|
-|**Total result**|42/10/0|26|17|15|7|
+|**Total result**|42/11/0|27|17|15|7|
